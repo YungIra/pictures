@@ -1,4 +1,3 @@
 # pictures
 
->> aa
->> bb
+* bb
